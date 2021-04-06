@@ -1,2 +1,2 @@
 # ocrplusplus
-Extracting text and structures from images
+Extracting text and structures from images with Textract
